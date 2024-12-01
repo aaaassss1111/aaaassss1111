@@ -1,4 +1,4 @@
-pcall(function() game.CoreGui["Synapse X"]:Destroy() end)
+pcall(function() game.CoreGui["Rebel"]:Destroy() end)
 local SynapseXreal = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local bar = Instance.new("Frame")
